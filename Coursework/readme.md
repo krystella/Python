@@ -11,7 +11,7 @@ The lectures in this course are also offered as part of the **"Python for Everyb
 
 ### **Table of Contents**
 1. [Exercises - Variables and Expressions](#Exercises---Variables-and-Expressions)
-2. [Exercises - Conditional Codes](#Conditional-Code)
+2. [Exercises - Conditional Codes](#Exercises---Conditional-Code)
 
 ##
 
@@ -19,8 +19,12 @@ The lectures in this course are also offered as part of the **"Python for Everyb
 
 These 3 short exercises serve to reiterate teachings in the first few lectures. They covered functions such as 'print' and 'input', calculations, and using the 'float' function to convert strings to numbers
 
-* [Link to .py script](Exercises_basics.py)
+* [Link to exercises](Exercises_basics.py)
 
 ##
 
 ### **Exercises - Conditional Code**
+
+These are exercises to practice use of conditional codes, i.e. non-sequential, such as _if else_ statements
+
+* [Link to exercise](Ex_CondCode.py)
