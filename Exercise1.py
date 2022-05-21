@@ -12,5 +12,5 @@ Title: Worked Example - hello world
 
 # Q. Write a program that uses a print statement to say 'hello world
 
-print("hello world")
+print("Hello world")
 
