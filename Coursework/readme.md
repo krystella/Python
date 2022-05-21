@@ -17,6 +17,10 @@ The lectures in this course are also offered as part of the **"Python for Everyb
 
 ### **Exercises - Variables and Expressions**
 
+These 3 short exercises serve to reiterate teachings in the first few lectures. They covered functions such as 'print' and 'input', calculations, and using the 'float' function to convert strings to numbers
+
+* [Link to .py script](Exercises_basics.py)
+
 ##
 
 ### **Exercises - Conditional Code**
